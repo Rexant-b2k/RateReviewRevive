@@ -1,0 +1,6 @@
+id,username,email,role,bio,first_name,last_name
+100,bingobongo,bingobongo@ratereviewrevive.fake,user,,,
+101,capt_obvious,capt_obvious@ratereviewrevive.fake,admin,,,
+102,faust,faust@ratereviewrevive.fake,user,,,
+103,reviewer,reviewer@ratereviewrevive.fake,user,,,
+104,angry,angry@ratereviewrevive.fake,moderator,,,
